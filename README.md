@@ -49,3 +49,7 @@ The website runs WordPress. Use **WPScan** to enumerate the installation and ide
 Take a closer look at the plugins installed on the WordPress site. Are any of them outdated or vulnerable?
 
 </details>
+
+## Walkthrough
+
+- If you are struggling you can use the walkthrough to help [walkthrough](https://github.com/AleksStaponas/Alpine-CTF/blob/main/Walkthrough.md)
